@@ -1,3 +1,8 @@
+# Author Name: Soumen Ghosh
+# School of Computer and Information Sciences, University of Hyderabad
+# https://link.springer.com/chapter/10.1007%2F978-3-319-49397-8_4
+# https://sites.google.com/site/soumenca/
+
 tb <- read.csv("/home/soumen/Desktop/Datasets/NumeicalDatasets/MIWAI_datasets/german.csv", FALSE)
 no_object <- nrow(tb)
 nc <- ncol(tb)
