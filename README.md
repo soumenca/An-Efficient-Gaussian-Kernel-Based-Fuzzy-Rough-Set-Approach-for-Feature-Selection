@@ -1,2 +1,3 @@
 # An-Efficient-Gaussian-Kernel-Based-Fuzzy-Rough-Set-Approach-for-Feature-Selection
-An Efficient Gaussian Kernel Based Fuzzy-Rough Set Approach for Feature Selection
+
+Fuzzy-rough set based feature selection is highly useful for reducing data dimensionality of a hybrid decision system, but the reduct computation is computationally expensive. Gaussian kernel based fuzzy rough sets merges kernel method to fuzzy-rough sets for efficient feature selection. This works aims at improving the computational performance of existing reduct computation approach in Gaussian kernel based fuzzy rough sets by incorporation of vectorized (matrix, sub-matrix) operations. The proposed approach was extensively compared by experimentation with the existing approach and also with a fuzzy rough set based reduct approaches available in Rough set R package. Results establish the relevance of proposed modifications.
